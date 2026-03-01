@@ -1,0 +1,101 @@
+{
+    "lines": [
+        {
+            "id": "Canada Line",
+            "color": "#0097C7",
+            "stations": [
+                {
+                    "name": "Waterfront",
+                    "x": 20,
+                    "y": 260
+                },
+                {
+                    "name": "Vancouver City Centre",
+                    "x": 60,
+                    "y": 260
+                },
+                {
+                    "name": "Yaletown\u2014Roundhouse",
+                    "x": 100,
+                    "y": 260
+                },
+                {
+                    "name": "Olympic Village",
+                    "x": 140,
+                    "y": 260
+                },
+                {
+                    "name": "Broadway\u2014City Hall",
+                    "x": 180,
+                    "y": 260
+                },
+                {
+                    "name": "King Edward",
+                    "x": 220,
+                    "y": 260
+                },
+                {
+                    "name": "Oakridge\u201441st Avenue",
+                    "x": 260,
+                    "y": 260
+                },
+                {
+                    "name": "Langara\u201449th Avenue",
+                    "x": 300,
+                    "y": 260
+                },
+                {
+                    "name": "Marine Drive",
+                    "x": 340,
+                    "y": 260
+                },
+                {
+                    "name": "Bridgeport",
+                    "x": 380,
+                    "y": 260
+                },
+                {
+                    "name": "Aberdeen",
+                    "x": 420,
+                    "y": 220
+                },
+                {
+                    "name": "Lansdowne",
+                    "x": 460,
+                    "y": 220
+                },
+                {
+                    "name": "Richmond\u2014Brighouse",
+                    "x": 500,
+                    "y": 220
+                }
+            ]
+        },
+        {
+            "id": "Canada Line - YVR Branch",
+            "color": "#0097C7",
+            "stations": [
+                {
+                    "name": "Bridgeport",
+                    "x": 380,
+                    "y": 260
+                },
+                {
+                    "name": "Templeton",
+                    "x": 420,
+                    "y": 300
+                },
+                {
+                    "name": "Sea Island Centre",
+                    "x": 460,
+                    "y": 300
+                },
+                {
+                    "name": "YVR\u2014Airport",
+                    "x": 500,
+                    "y": 300
+                }
+            ]
+        }
+    ]
+}

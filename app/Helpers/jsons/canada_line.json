@@ -1,0 +1,146 @@
+{
+    "lines": [
+        {
+            "id": "Canada Line (Richmond-Brighouse Branch)",
+            "color": "#0097C7",
+            "stations": [
+                {
+                    "name": "Waterfront",
+                    "x": 20,
+                    "y": 260
+                },
+                {
+                    "name": "Vancouver City Centre",
+                    "x": 40,
+                    "y": 260
+                },
+                {
+                    "name": "Yaletown-Roundhouse",
+                    "x": 80,
+                    "y": 260
+                },
+                {
+                    "name": "Olympic Village",
+                    "x": 100,
+                    "y": 260
+                },
+                {
+                    "name": "Broadway-City Hall",
+                    "x": 140,
+                    "y": 260
+                },
+                {
+                    "name": "King Edward",
+                    "x": 160,
+                    "y": 260
+                },
+                {
+                    "name": "Oakridge-41st Avenue",
+                    "x": 200,
+                    "y": 260
+                },
+                {
+                    "name": "Langara-49th Avenue",
+                    "x": 220,
+                    "y": 260
+                },
+                {
+                    "name": "Marine Drive",
+                    "x": 260,
+                    "y": 260
+                },
+                {
+                    "name": "Bridgeport",
+                    "x": 280,
+                    "y": 260
+                },
+                {
+                    "name": "Aberdeen",
+                    "x": 380,
+                    "y": 160
+                },
+                {
+                    "name": "Lansdowne",
+                    "x": 440,
+                    "y": 160
+                },
+                {
+                    "name": "Richmond-Brighouse",
+                    "x": 500,
+                    "y": 160
+                }
+            ]
+        },
+        {
+            "id": "Canada Line (YVR-Airport Branch)",
+            "color": "#0097C7",
+            "stations": [
+                {
+                    "name": "Waterfront",
+                    "x": 20,
+                    "y": 260
+                },
+                {
+                    "name": "Vancouver City Centre",
+                    "x": 40,
+                    "y": 260
+                },
+                {
+                    "name": "Yaletown-Roundhouse",
+                    "x": 80,
+                    "y": 260
+                },
+                {
+                    "name": "Olympic Village",
+                    "x": 100,
+                    "y": 260
+                },
+                {
+                    "name": "Broadway-City Hall",
+                    "x": 140,
+                    "y": 260
+                },
+                {
+                    "name": "King Edward",
+                    "x": 160,
+                    "y": 260
+                },
+                {
+                    "name": "Oakridge-41st Avenue",
+                    "x": 200,
+                    "y": 260
+                },
+                {
+                    "name": "Langara-49th Avenue",
+                    "x": 220,
+                    "y": 260
+                },
+                {
+                    "name": "Marine Drive",
+                    "x": 260,
+                    "y": 260
+                },
+                {
+                    "name": "Bridgeport",
+                    "x": 280,
+                    "y": 260
+                },
+                {
+                    "name": "Templeton",
+                    "x": 380,
+                    "y": 360
+                },
+                {
+                    "name": "Sea Island Centre",
+                    "x": 440,
+                    "y": 360
+                },
+                {
+                    "name": "YVR-Airport",
+                    "x": 500,
+                    "y": 360
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "lines": [
+    {
+      "id": "green",
+      "color": "#00A651",
+      "stations": [
+        {"name": "Angrignon", "x": 0, "y": 0},
+        {"name": "Lionel-Groulx", "x": 1, "y": 0},
+        {"name": "Atwater", "x": 2, "y": 0},
+        {"name": "Peel", "x": 3, "y": 0},
+        {"name": "Berri-UQAM", "x": 4, "y": 0}
+      ]
+    },
+    {
+      "id": "orange",
+      "color": "#F68B1F",
+      "stations": [
+        {"name": "Côte-Vertu", "x": 1, "y": 2},
+        {"name": "Snowdon", "x": 1, "y": 1},
+        {"name": "Lionel-Groulx", "x": 1, "y": 0},
+        {"name": "Berri-UQAM", "x": 4, "y": 0}
+      ]
+    }
+  ]
+}

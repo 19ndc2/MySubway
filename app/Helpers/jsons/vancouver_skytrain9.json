@@ -1,0 +1,307 @@
+{
+    "lines": [
+        {
+            "id": "Canada Line",
+            "color": "#00A7E1",
+            "stations": [
+                {
+                    "name": "Waterfront",
+                    "x": 100,
+                    "y": 20
+                },
+                {
+                    "name": "Vancouver City Centre",
+                    "x": 100,
+                    "y": 60
+                },
+                {
+                    "name": "Yaletown-Roundhouse",
+                    "x": 100,
+                    "y": 100
+                },
+                {
+                    "name": "Olympic Village",
+                    "x": 100,
+                    "y": 140
+                },
+                {
+                    "name": "Broadway-City Hall",
+                    "x": 100,
+                    "y": 180
+                },
+                {
+                    "name": "King Edward",
+                    "x": 100,
+                    "y": 220
+                },
+                {
+                    "name": "Oakridge-41st Avenue",
+                    "x": 100,
+                    "y": 260
+                },
+                {
+                    "name": "Langara-49th Avenue",
+                    "x": 100,
+                    "y": 300
+                },
+                {
+                    "name": "Marine Drive",
+                    "x": 100,
+                    "y": 340
+                },
+                {
+                    "name": "Bridgeport",
+                    "x": 100,
+                    "y": 380
+                },
+                {
+                    "name": "Aberdeen",
+                    "x": 100,
+                    "y": 420
+                },
+                {
+                    "name": "Lansdowne",
+                    "x": 100,
+                    "y": 460
+                },
+                {
+                    "name": "Richmond-Brighouse",
+                    "x": 100,
+                    "y": 500
+                },
+                {
+                    "name": "Templeton",
+                    "x": 60,
+                    "y": 380
+                },
+                {
+                    "name": "Sea Island Centre",
+                    "x": 20,
+                    "y": 380
+                },
+                {
+                    "name": "YVR-Airport",
+                    "x": 20,
+                    "y": 420
+                }
+            ]
+        },
+        {
+            "id": "Expo Line",
+            "color": "#1C59AE",
+            "stations": [
+                {
+                    "name": "Waterfront",
+                    "x": 100,
+                    "y": 20
+                },
+                {
+                    "name": "Burrard",
+                    "x": 120,
+                    "y": 40
+                },
+                {
+                    "name": "Granville",
+                    "x": 140,
+                    "y": 60
+                },
+                {
+                    "name": "Stadium-Chinatown",
+                    "x": 160,
+                    "y": 80
+                },
+                {
+                    "name": "Main Street-Science World",
+                    "x": 180,
+                    "y": 100
+                },
+                {
+                    "name": "Commercial-Broadway",
+                    "x": 180,
+                    "y": 160
+                },
+                {
+                    "name": "Nanaimo",
+                    "x": 220,
+                    "y": 200
+                },
+                {
+                    "name": "29th Avenue",
+                    "x": 260,
+                    "y": 240
+                },
+                {
+                    "name": "Joyce-Collingwood",
+                    "x": 300,
+                    "y": 280
+                },
+                {
+                    "name": "Patterson",
+                    "x": 340,
+                    "y": 320
+                },
+                {
+                    "name": "Metrotown",
+                    "x": 380,
+                    "y": 360
+                },
+                {
+                    "name": "Royal Oak",
+                    "x": 420,
+                    "y": 400
+                },
+                {
+                    "name": "Edmonds",
+                    "x": 460,
+                    "y": 400
+                },
+                {
+                    "name": "22nd Street",
+                    "x": 500,
+                    "y": 400
+                },
+                {
+                    "name": "New Westminster",
+                    "x": 500,
+                    "y": 360
+                },
+                {
+                    "name": "Columbia",
+                    "x": 500,
+                    "y": 320
+                },
+                {
+                    "name": "Scott Road",
+                    "x": 460,
+                    "y": 360
+                },
+                {
+                    "name": "Gateway",
+                    "x": 460,
+                    "y": 400
+                },
+                {
+                    "name": "Surrey Central",
+                    "x": 460,
+                    "y": 440
+                },
+                {
+                    "name": "King George",
+                    "x": 460,
+                    "y": 480
+                },
+                {
+                    "name": "Sapperton",
+                    "x": 500,
+                    "y": 280
+                },
+                {
+                    "name": "Braid",
+                    "x": 500,
+                    "y": 240
+                },
+                {
+                    "name": "Lougheed Town Centre",
+                    "x": 500,
+                    "y": 200
+                },
+                {
+                    "name": "Production Way-University",
+                    "x": 500,
+                    "y": 160
+                }
+            ]
+        },
+        {
+            "id": "Millennium Line",
+            "color": "#FFD200",
+            "stations": [
+                {
+                    "name": "VCC-Clark",
+                    "x": 140,
+                    "y": 160
+                },
+                {
+                    "name": "Commercial-Broadway",
+                    "x": 180,
+                    "y": 160
+                },
+                {
+                    "name": "Renfrew",
+                    "x": 220,
+                    "y": 160
+                },
+                {
+                    "name": "Rupert",
+                    "x": 260,
+                    "y": 160
+                },
+                {
+                    "name": "Gilmore",
+                    "x": 300,
+                    "y": 160
+                },
+                {
+                    "name": "Brentwood Town Centre",
+                    "x": 340,
+                    "y": 160
+                },
+                {
+                    "name": "Holdom",
+                    "x": 380,
+                    "y": 160
+                },
+                {
+                    "name": "Sperling-Burnaby Lake",
+                    "x": 420,
+                    "y": 160
+                },
+                {
+                    "name": "Lake City Way",
+                    "x": 460,
+                    "y": 160
+                },
+                {
+                    "name": "Production Way-University",
+                    "x": 500,
+                    "y": 160
+                },
+                {
+                    "name": "Lougheed Town Centre",
+                    "x": 500,
+                    "y": 200
+                },
+                {
+                    "name": "Burquitlam",
+                    "x": 500,
+                    "y": 120
+                },
+                {
+                    "name": "Moody Centre",
+                    "x": 500,
+                    "y": 80
+                },
+                {
+                    "name": "Inlet Centre",
+                    "x": 460,
+                    "y": 80
+                },
+                {
+                    "name": "Coquitlam Central",
+                    "x": 420,
+                    "y": 80
+                },
+                {
+                    "name": "Lincoln",
+                    "x": 420,
+                    "y": 40
+                },
+                {
+                    "name": "Lafarge Lake-Douglas",
+                    "x": 420,
+                    "y": 0
+                }
+            ]
+        }
+    ]
+}
