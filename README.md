@@ -2,13 +2,12 @@
   <img src="public/MySubwayLogo.png" alt="Transit Diagram Logo" width="200">
 </div>
 
-# Transit Diagram
 
 Turn hand-drawn transit diagrams into machine-readable data using AI vision extraction.
 
 ## Problem & Solution
 
-Transit networks are complex to document, and manual data entry is tedious and error-prone. **Transit Diagram** solves this by combining an interactive drawing canvas with AI-powered extraction—upload a transit diagram sketch, and Google Gemini instantly extracts structured station and line data, then renders it as a clean schematic visualization.
+Visualizing transit concepts shouldn’t be complicated. Transit networks are often tricky to document, and manually entering station and line data is slow and prone to mistakes. MySubway makes it effortless: simply sketch your transit idea, upload it, and Google Gemini automatically extracts the structured data. The result is a clear, professional schematic that brings your transit vision to life instantly.
 
 ## Key Features
 
@@ -32,21 +31,6 @@ Convert to PNG and display
 ```
 
 The AI applies sophisticated geometric rules: grid-snapping, transfer point detection, and schematic alignment to produce clean, standardized diagrams from sketches.
-
-## Example Data
-
-See [canada_line5.json](app/Helpers/canada_line5.json) for the transit schema structure (lines, stations, coordinates).
-
-## Project Structure
-
-- **app/Helpers/**: Core processing pipeline (image extraction, AI prompting, Graphviz rendering)
-- **resources/js/pages/Welcome.tsx**: Interactive React canvas UI with drawing tools
-- **routes/api.php**: `/api/convert-image` endpoint for image processing
-- **tests/**: PestPHP feature tests and CI/CD workflows
-
-## Testing & CI/CD
-
-Automated PestPHP tests validate the image conversion pipeline. GitHub Actions workflows run on all commits for PHP linting, formatting, and test coverage across PHP 8.4 and 8.5+.
 
 ## Tech Stack
 
